@@ -33,7 +33,7 @@ export const Content = styled.div`
 export const Text = styled.div`
   width: 100%;
   padding: 20px 40px;
-  color: var(--white);
+  color: var(--lightGrey);
   overflow: hidden;
   .rating-directors {
     display: flex;
@@ -45,7 +45,7 @@ export const Text = styled.div`
     justify-content: center;
     width: 35px;
     height: 35px;
-    background: #fff;
+    background: var(--lightGrey);
     color: #000;
     font-weight: 800;
     border-radius: 50%;

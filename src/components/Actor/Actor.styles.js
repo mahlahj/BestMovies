@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Wrapper = styled.div`
-  color: var(--white);
+  color: var(--lightGrey);
   background: var(--darkPurple);
   border-radius: 20px;
   padding: 5px;

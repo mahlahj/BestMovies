@@ -7,7 +7,7 @@ export const Wrapper = styled.div`
   width: 100%;
   height: 70px;
   background: var(--medPurple);
-  color: var(--white);
+  color: var(--lightGrey);
 `;
 
 export const Content = styled.div`
@@ -17,7 +17,7 @@ export const Content = styled.div`
   padding: 0 20px;
   span {
     font-size: var(--fontMed);
-    color: var(--white);
+    color: var(--lightGrey);
     padding-right: 10px;
     @media screen and (max-width: 768px) {
       font-size: var(--fontSmall);

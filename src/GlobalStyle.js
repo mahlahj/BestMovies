@@ -33,5 +33,19 @@ export const GlobalStyle = createGlobalStyle`
       font-size: 1rem;
       color: var(--white);
     }
+    .tag {
+      border-radius: 5px;
+      font-weight: bold;
+      padding: 0.5rem;
+    }
+    .tag.green {
+    color: green;
+    }
+    .tag.orange {
+    color: orange;
+    }
+    .tag.red {
+    color: red;
+    }
   }
 `;
