@@ -11,10 +11,17 @@ This can be done by signing into the page, click into `profile` and then on `set
 This will redirect you to a new page, with a large box on the left, scroll-down until you see `API` and click on it.\
 Follow the on-screen instructions to generate your own personal key! :smiley:
 
-\Also, you'll need to have installed **INSIDE** the project folder: [React router](https://reactrouter.com/), [Node JS](https://nodejs.org/en/), [Prop-Types](https://www.npmjs.com/package/prop-types), [Styled-Components](https://styled-components.com/), either with [NPM](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/).\
-We recommend to use VSCode as your default editor due to several extensions that make coding easier, but feel free to use any.
+Also, you'll need to have installed **INSIDE** the project folder: [React router](https://reactrouter.com/), [Node JS](https://nodejs.org/en/), [Prop-Types](https://www.npmjs.com/package/prop-types), [Styled-Components](https://styled-components.com/), either with [NPM](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/).\
+We recommend to use VSCode as your default editor due to several extensions that make coding easier, but feel free to use any other.
 
-## Available Scripts
+## How to's
+
+First creat a folder on your desktop (way easier to spot and find it for later modifications) with the name of the project, open the code editor of choice and the built-in (if available) console/terminal and run: `npx create-react-app <name of the app>`.\
+This will take some time, but will create the basic scaffold for the app, then unzip the contents inside the new folder, or copy the contents of every folder inside this project.\
+
+The work tree must look like this:
+
+![image](https://user-images.githubusercontent.com/37989755/144789264-36974eed-6a40-42d7-a29b-b83dda6c9b1c.png)
 
 In the project directory, you can run:
 
