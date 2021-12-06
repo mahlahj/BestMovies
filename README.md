@@ -39,5 +39,4 @@ This app can be viewed in this link:
 
 ## Contributors
 
-The app was made possible come alive with the work of:
-@elsamir and @Adrian619RM
+The app was made possible come alive with the work of @elsamir and @Adrian619RM
