@@ -40,3 +40,6 @@ This app can be viewed in this link:
 ## Contributors
 
 The app was made possible to come alive with the work and persistence of @elsamir and @Adrian619RM
+
+## Powered by [The Movie Database](https://www.themoviedb.org/) ![image](https://user-images.githubusercontent.com/37989755/144807713-29ed5f6c-5dc2-4aef-875e-6eafb2e29ccd.png)
+
