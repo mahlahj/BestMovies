@@ -7,7 +7,7 @@ In case you don't, follow the above link and read some of the basic functions to
 ## Basics
 
 You **NEED** to obtain a personal [The Movie Database key](https://www.themoviedb.org/) in order to function.\
-This can be done by signing into the page, click into <div>profile</div>" and then on "settings".
+This can be done by signing into the page, click into <code>profile</code> and then on "settings".
 
 Also, you'll need to have installed **INSIDE** the project folder: [React router](https://reactrouter.com/), [Node JS](https://nodejs.org/en/), [Prop-Types](https://www.npmjs.com/package/prop-types), [Styled-Components](https://styled-components.com/),  either with [NPM](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
 
