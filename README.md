@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was created with [Create React App](https://github.com/facebook/create-react-app).\
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
 This also means you're, at least, familiarized with React.js.\
 In case you don't, follow the above link and read some of the basic functions to develop a simple React App (you'll need [Node.js](https://nodejs.org/en/) too). :smiley:
 
@@ -11,7 +11,8 @@ This can be done by signing into the page, click into `profile` and then on `set
 This will redirect you to a new page, with a large box on the left, scroll-down until you see `API` and click on it.\
 Follow the on-screen instructions to generate your own personal key! :smiley:
 
-\\Also, you'll need to have installed **INSIDE** the project folder: [React router](https://reactrouter.com/), [Node JS](https://nodejs.org/en/), [Prop-Types](https://www.npmjs.com/package/prop-types), [Styled-Components](https://styled-components.com/),  either with [NPM](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/).\
+\Also, you'll need to have installed **INSIDE** the project folder: [React router](https://reactrouter.com/), [Node JS](https://nodejs.org/en/), [Prop-Types](https://www.npmjs.com/package/prop-types), [Styled-Components](https://styled-components.com/), either with [NPM](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/).\
+We recommend to use VSCode as your default editor due to several extensions that make coding easier, but feel free to use any.
 
 ## Available Scripts
 
