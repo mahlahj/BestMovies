@@ -3,7 +3,7 @@
 This project was created with [Create React App](https://github.com/facebook/create-react-app).
 
 ##
-You **NEED** to obtain a personal [The Movie Database key](https://www.themoviedb.org/) in order to function.
+You **NEED** to obtain a personal [The Movie Database key](https://www.themoviedb.org/) in order to function.\
 This can be done by signing into the page and then following the steps mentioned.
 
 ## Available Scripts
