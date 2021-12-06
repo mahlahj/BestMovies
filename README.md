@@ -4,9 +4,12 @@ This project was created with [Create React App](https://github.com/facebook/cre
 This also means you're, at least, familiarized with React.js.\
 In case you don't, follow the above link and read some of the basic functions to develop a simple React App. :smiley:
 
-##
+## Basics
+
 You **NEED** to obtain a personal [The Movie Database key](https://www.themoviedb.org/) in order to function.\
 This can be done by signing into the page, click into the .
+
+Also, you'll need to have installed [React router](https://reactrouter.com/), [Node JS](https://nodejs.org/en/), 
 
 ## Available Scripts
 
