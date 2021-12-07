@@ -17,7 +17,7 @@ We recommend to use [VSCode](https://code.visualstudio.com/) as your default edi
 ## How to's
 
 First create a folder on your desktop (way easier to spot and find it for later modifications) with the name of the project, open the code editor of choice and the built-in (if available) console/terminal and run: `npx create-react-app <name of the app>`.\
-This will take some time, but will create the basic scaffold for the app, then unzip the contents inside the new folder, or copy the contents of every folder inside this project.\
+This will take some time, but will create the basic scaffold for the app, then unzip the contents inside the new folder, or copy the contents of every folder inside this project.
 
 The work tree must look like this:
 
