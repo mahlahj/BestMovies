@@ -12,7 +12,7 @@ This will redirect you to a new page, with a large box on the left, scroll-down 
 Follow the on-screen instructions to generate your own personal key to change in the environmental variable `REACT_APP_API_KEY`! :smiley:
 
 Also, you'll need to have installed **INSIDE** the project folder: [React router](https://reactrouter.com/), [Node JS](https://nodejs.org/en/), [Prop-Types](https://www.npmjs.com/package/prop-types), [Styled-Components](https://styled-components.com/), and [Wait-on](https://www.npmjs.com/package/wait-on), either with [NPM](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/).\
-We recommend to use VSCode as your default editor due to several extensions that make coding easier, but feel free to use any other.
+We recommend to use [VSCode](https://code.visualstudio.com/) as your default editor due to several extensions that make coding easier, but feel free to use any other.
 
 ## How to's
 
