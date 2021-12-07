@@ -35,7 +35,7 @@ You will also see any lint errors in the console.
 
 ## Deployment
 
-This app can be viewed by clicking this link: https://bm-bestmovies-app.netlify.app/\
+This app can be viewed by clicking this link: https://bm-bestmovies-app.netlify.app/ .\
 Also, you can make a desktop app using this tutorial as a base: https://youtu.be/oIcMtBNAq5Y
 
 ## Contributors
